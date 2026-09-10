@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "home",
+    "dir": "home",
+    "title": "home",
+    "description": "test",
+    "path": "/home",
+    "out": "home/index.html",
+    "status": "draft",
+    "seo": {
+      "ogImage": null,
+      "noindex": false
+    },
+    "templates": {
+      "header": null,
+      "footer": null,
+      "utilityNav": null
+    }
+  }
+]
